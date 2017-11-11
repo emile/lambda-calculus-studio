@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Lambda Calculus Studio</title>
+    <script type="text/javascript" src="./target/scala-2.11/parser-opt.js"></script>
+
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+
+    <style>
+        pre {
+        font-family: "mono";
+        }
+        textarea {
+        font-family: "mono";
+        height: 6em;
+        }
+        textarea.low {
+        height:2em;
+        }
+    </style>
+
+</head>
+<body>
+
+<div class="container">
+
+    <div id="mainApp">Javascript required</div>
+
+    <footer class="valign-wrapper footer-copyright grey white-text">
+        <div class="container">
+          <ul>
+              <li>2017</li>
+              <li><a class="white-text"
+                 href="https://github.com/emile/lambda-calculus-studio">source</a>
+              </li>
+          </ul>
+        </div>
+    </footer>
+</div>
+
+<script type="text/javascript">main(document.getElementById('mainApp'))</script>
+</body>
+</html>
