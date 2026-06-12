@@ -3,4 +3,4 @@
 
 This is a toy interpreter for experimenting with lambda calculus.
 
-[Online version](http://emile.freeshell.net/lambda.html)
+[Online version](https://lambda-calculus-studio.pages.dev/)

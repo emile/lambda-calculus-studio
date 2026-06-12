@@ -236,7 +236,7 @@ ARROW=^x->BACKREF;
       <h4>References</h4>
       <ul>
         <li><a href="https://github.com/hallettj/LambdaCalculus">https://github.com/hallettj/LambdaCalculus</a></li>
-        <li><a href="http://jwodder.freeshell.org/lambda.html">http://jwodder.freeshell.org/lambda.html"</a></li>
+        <li><a href="http://jwodder.freeshell.org/lambda.html">http://jwodder.freeshell.org/lambda.html</a></li>
         <li><a href="https://github.com/lihaoyi/fastparse">https://github.com/lihaoyi/fastparse</a></li>
         <li><a href="https://www.scala-js.org/">https://www.scala-js.org/</a></li>
         <li><a href="https://github.com/ThoughtWorksInc/Binding.scala">https://github.com/ThoughtWorksInc/Binding.scala</a></li>
